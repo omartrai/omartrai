@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on big company project
+- 🔭 I’m currently working on a big company project
 - 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate on Angular / Net Core Projects 
 - 📫 How to reach me: IG : @traiomar / linkedin : omartrai / Email :traiomar@gmail.com
